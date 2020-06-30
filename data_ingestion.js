@@ -514,3 +514,28 @@ var data_pre_proj = ee.Image.cat(dist_allroad_proj,dist_secroad_proj, dist_third
  maxPixels:1e13,
  crs: 'EPSG:32719'
  })                            
+
+
+
+
+//Exporting to cloud storage
+// Export.image.toCloudStorage({
+//   image: data_pre_real,
+//   bucket:'<your_bucket>',
+//   description: '<your_file_name>',
+//   scale: 100,
+//   fileFormat: 'TFRecord',
+//   region: geometry8, //insert the geometry for exporting here
+//   crs: 'EPSG:32719'
+//   formatOptions: {
+//     'patchDimensions': [256, 256],
+//     maxFileSize: 104857600,
+//     compressed: true,
+//   },
+// });
+
+
+
+
+
+
