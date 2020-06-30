@@ -1,4 +1,4 @@
-system:index,altitude,cluster,cluster_mean,distance_any,distance_buffer,distance_first,distance_parks,distance_second,distance_third,distance_villages,landform,latitude,longitude,random,slope,.geo
+system:index,altitude,lossyear,cluster_mean,distance_any,distance_buffer,distance_first,distance_parks,distance_second,distance_third,distance_villages,landform,latitude,longitude,random,slope,.geo
 00000000000000005c1b,1027,0,0.0,2450,4923,41030,0,2450,10297,31747,11,-13058,-71116,0.8753913772177616,11.929823,"{""type"":""Point"",""coordinates"":[-71.11655283401853,-13.058727144675245]}"
 00000000000000005fba,1037,0,0.0,7352,13349,43988,0,7352,22296,36147,11,-12943,-71042,0.8974743246031333,28.00554,"{""type"":""Point"",""coordinates"":[-71.04288848461563,-12.943740305810039]}"
 00000000000000003352,1294,0,0.0,9703,0,82748,2667,9703,11554,13887,11,-12754,-71459,0.9557309125577809,17.93964,"{""type"":""Point"",""coordinates"":[-71.45970741468751,-12.755093576642956]}"
